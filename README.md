@@ -5,7 +5,7 @@ This is a weekend project to create pong without any library functions or libc o
 As a result, I was able to learn about linker scripts, RISC-V assembly much better in detail, and had first hand experience in going through hardware datasheet and controlling it accordingly.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rnayabed/pong-vega/master/screenshots/photo.png">
+<img src="https://raw.githubusercontent.com/rnayabed/pong-vega/master/photo.png">
 
 # [Video Demo](https://www.youtube.com/watch?v=BnFxO1wrXD8) 
 </div>
